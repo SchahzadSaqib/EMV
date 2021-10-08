@@ -1,0 +1,26 @@
+remotes::install_github("DesiQuintans/librarian")
+librarian::shelf(librarian)
+
+librarian::shelf(phyloseq, 
+                 here, 
+                 writexl, 
+                 tidyverse,
+                 readr,
+                 vegan,
+                 summarytools,
+                 ggpubr,
+                 ggExtra,
+                 ggnewscale,
+                 ggExtra,
+                 gghalves,
+                 shades,
+                 DECIPHER,
+                 phangorn,
+                 rentrez,
+                 devtools,
+                 
+                 scales,
+                 MASS,
+                 scico,
+                 viridis, 
+                 cowplot)
