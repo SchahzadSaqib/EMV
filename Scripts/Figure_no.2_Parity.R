@@ -5,7 +5,7 @@
 load.pkgs <- list(here::here("Scripts", "load_packages.R"),
                   here::here("Scripts", "plot_theme.R"),
                   here::here("Scripts", "GroupTest_mod.R"))
-purrr::map(load.pkgs, source)
+load.pkgs <- purrr::map(load.pkgs, source)
 
 ##### Read data ##-----
 EMMI_phy324 <- readr::read_rds(here::here("Data", "EMMI_phy324.rds"))

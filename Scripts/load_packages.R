@@ -18,7 +18,6 @@ librarian::shelf(phyloseq,
                  phangorn,
                  rentrez,
                  devtools,
-                 
                  scales,
                  MASS,
                  scico,

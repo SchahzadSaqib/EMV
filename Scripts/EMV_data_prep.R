@@ -34,7 +34,7 @@ metadata <- readr::read_delim(
   dplyr::rename_with(~paste("B.Breve"), starts_with("Bacteria_Actinobacteria"))
 
 
-## seqtab + subset to 324
+## load ASVs
 seqtab_sub <- readr::read_rds(
   here::here("Data",
              "seqtab_Pa_Ga_324_filt.rds")
@@ -82,22 +82,22 @@ EMMI_phy324 <- phyloseq::phyloseq(otu_table(seqtab_sub, taxa_are_rows = F),
 
 
 ## Constructing a phylogenetic tree
-seqs <- phyloseq::taxa_names(EMMI_phy324)
-names(seqs) <- phyloseq::taxa_names(EMMI_phy324)
-alignment <- DECIPHER::AlignSeqs(DNAStringSet(seqs), anchor = NA, verbose = T)
-phangAlign <- phangorn::phyDat(as(alignment, "matrix"), type = "DNA")
-dm <- phangorn::dist.ml(phangAlign)
-treeNJ <- phangorn::NJ(dm)
-fit = phangorn::pml(treeNJ, data = phangAlign)
-fitGTR <- stats::update(fit, k = 4, inv = 0.2)
-fitGTR <- phangorn::optim.pml(fitGTR, 
-                              model = "GTR", 
-                              optInv = T, 
-                              optGamma = T, 
-                              rearrangement = "stochastic",
-                              control = phangorn::pml.control(trace = 0))
-
-saveRDS(fitGTR, file = here::here("Data", "Phy_tree.rds"))
+#seqs <- phyloseq::taxa_names(EMMI_phy324)
+#names(seqs) <- phyloseq::taxa_names(EMMI_phy324)
+#alignment <- DECIPHER::AlignSeqs(DNAStringSet(seqs), anchor = NA, verbose = T)
+#phangAlign <- phangorn::phyDat(as(alignment, "matrix"), type = "DNA")
+#dm <- phangorn::dist.ml(phangAlign)
+#treeNJ <- phangorn::NJ(dm)
+#fit = phangorn::pml(treeNJ, data = phangAlign)
+#fitGTR <- stats::update(fit, k = 4, inv = 0.2)
+#fitGTR <- phangorn::optim.pml(fitGTR, 
+#                              model = "GTR", 
+#                              optInv = T, 
+#                              optGamma = T, 
+#                              rearrangement = "stochastic",
+#                              control = phangorn::pml.control(trace = 0))
+#
+#saveRDS(fitGTR, file = here::here("Data", "Phy_tree.rds"))
 fitGTR <- readr::read_rds(here::here("Data", "Phy_tree.rds"))
 
 

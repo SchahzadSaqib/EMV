@@ -4,7 +4,7 @@
 ##### Load packages and custom scripts ##-----
 load.pkgs <- list(here::here("Scripts", "load_packages.R"),
                   here::here("Scripts", "plot_theme.R"))
-purrr::map(load.pkgs, source)
+load.pkgs <- purrr::map(load.pkgs, source)
 
 
 ##### Read data ##-----

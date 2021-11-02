@@ -2,7 +2,7 @@
 load.pkgs <- list(here::here("Scripts", "load_packages.R"),
                   here::here("Scripts", "plot_theme.R"),
                   here::here("Scripts", "GroupTest_mod.R"))
-purrr::map(load.pkgs, source)
+load.pkgs <- purrr::map(load.pkgs, source)
 
 
 
