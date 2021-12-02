@@ -1,0 +1,325 @@
+Sample Ga_at_sample_weeks Primipara GP3 Previous_delivery_method Parity_0or1 Parity_3class Term_vs_late
+EMV1261 39.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1262 40.43 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1263 39.71 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1265 39.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1266 39.29 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1267 38.86 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1269 39.43 Multiparous Multiparous "Elective CS" Yes 1 Term
+EMV1271 39.14 Multiparous Multiparous "Elective CS" Yes 1 Term
+EMV1272 39 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1273 38.71 Multiparous Multiparous "Elective CS" No "2 or more" Term
+EMV1275 39 Multiparous Multiparous "Elective CS" No "2 or more" Term
+EMV1276 39.29 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1277 39.29 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1279 39.71 Multiparous Multiparous "Emergency CS" No "2 or more" Term
+EMV1280 39.29 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1281 39.14 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1282 39 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1283 39.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1284 39.14 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1285 39.14 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1286 39.14 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1287 39.43 Multiparous Multiparous "Elective CS" Yes 1 Term
+EMV1288 39.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1290 40.14 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1291 39.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1292 39.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1294 39.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1295 39.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1296 39.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1297 39.14 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1298 39.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1299 39.71 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1300 39.57 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1301 39.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1302 39 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1303 39.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1304 39.29 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1305 39 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1306 39.14 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1307 39.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1308 39.71 Multiparous Multiparous "Elective CS" Yes 1 Term
+EMV1309 39.14 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1310 39.86 Multiparous Multiparous "Elective CS" Yes 1 Term
+EMV1311 39.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1312 39.14 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1313 39.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1314 39 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1315 39.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1316 39.29 Multiparous Multiparous "Elective CS" Yes 1 Term
+EMV1317 39.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1319 39.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1320 40 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1321 39.29 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1322 38.57 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1323 39 Multiparous Multiparous "Elective CS" Yes 1 Term
+EMV1324 39.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1325 39.43 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1326 39.14 Multiparous Multiparous "Emergency CS" No "2 or more" Term
+EMV1327 39.57 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1328 40.29 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1331 38.86 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1333 39.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1335 40.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1337 40.57 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1341 39 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1343 40.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1345 39 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1347 40 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1349 40.43 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1351 40.71 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1353 39.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1355 40.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1357 40.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1359 39.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1361 39.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1363 39.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1365 40.71 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1367 40.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1369 40 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1371 37.14 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1373 40.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1375 39 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1377 40.57 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1379 39.57 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1381 40.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1383 40 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1385 40.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1389 39.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1391 40.71 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1393 40.71 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1395 40.29 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1397 40.57 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1399 40.86 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1401 39.57 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1405 38.14 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1407 39.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1409 40.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1411 39.43 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1413 40 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1415 39.71 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1417 40.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1419 40.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1421 39.86 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1423 39.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1425 40.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1427 40.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1429 39 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1431 38.71 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1435 40.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1437 40 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1439 40.57 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1441 40.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1443 40.86 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1445 40.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1447 40.29 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1449 40.29 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV1451 40.43 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV1453 38.43 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV1455 40.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1457 40.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1459 40.57 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1461 39.29 Multiparous Multiparous Vaginal Yes 1 Term
+EMV1463 40.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1465 40.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1467 39.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1469 40.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV1471 42 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1475 41.86 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV1479 42 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1483 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1487 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1491 42 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1495 41.86 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1499 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1503 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1507 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1511 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1515 42 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1519 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1523 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1527 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1531 42 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1535 41.86 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1539 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1543 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1547 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1551 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1555 42 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1559 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1563 41.57 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1567 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1571 41.71 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV1575 41.86 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1579 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1583 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1587 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1591 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1599 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1603 41.71 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV1607 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1611 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1615 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1619 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1623 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1627 41.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1631 41.86 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1635 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1639 42 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1647 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1651 41.57 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1655 41.43 Multiparous Multiparous "Elective CS" Yes 1 "Late term or prolonged"
+EMV1659 42 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1663 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1667 41.86 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1671 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1675 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1679 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1683 41.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1687 41.86 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1691 42 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1703 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1711 41.86 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1715 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1719 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1723 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1727 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1731 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1735 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1739 41.57 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1743 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1747 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1751 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1755 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1759 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1763 41.43 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1767 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1771 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1775 41.86 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1779 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1783 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1787 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1791 41.14 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1795 42 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1799 41.29 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1803 41.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1807 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1811 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1815 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1819 41 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1823 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1827 41.29 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1831 41.14 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1835 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1839 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1843 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1847 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1851 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1855 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1863 41 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1867 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1871 41.86 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1875 41.86 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1879 41.57 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV1883 41.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1887 41 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1891 41.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1895 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1899 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1903 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1907 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1911 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1915 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1919 41.71 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV1923 42 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1927 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1931 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1935 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1939 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1943 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1947 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1951 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1955 41.57 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1959 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV1963 41 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV1967 41 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV1971 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1975 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1979 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1983 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1987 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV1991 41.86 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1995 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV1999 41.29 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2003 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV2007 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2011 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2015 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2019 41 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV2023 41 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV2027 41 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2031 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2039 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2043 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2047 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV2051 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV2055 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2059 41.43 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV2063 41.29 Multiparous Multiparous "Emergency CS" Yes 1 "Late term or prolonged"
+EMV2067 41.43 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2071 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV2075 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2079 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2083 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2091 41.57 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV2095 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2099 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2104 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2107 41 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV2111 41.43 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV2115 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV2123 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV2127 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2131 41.14 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV2135 41.57 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2139 41.43 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2143 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV2147 41.43 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2151 41.71 Multiparous Multiparous Vaginal Yes 1 "Late term or prolonged"
+EMV2156 41.29 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV2163 41 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV2171 41.43 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2175 41.71 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2196 41.71 Multiparous Multiparous Vaginal No "2 or more" "Late term or prolonged"
+EMV2199 41.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 "Late term or prolonged"
+EMV2353 38.43 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV2355 39.71 Multiparous Multiparous Vaginal No "2 or more" Term
+EMV2359 40.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2361 40.29 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2363 40.14 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV2365 39 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2367 38.43 Multiparous Multiparous Vaginal Yes 1 Term
+EMV2369 40.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2371 39.71 Multiparous Multiparous Vaginal Yes 1 Term
+EMV2373 39.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2375 40.71 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV2377 40.43 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV2379 38.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2381 38.43 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2383 40 Multiparous Multiparous Vaginal Yes 1 Term
+EMV2385 40.86 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2387 39.86 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2389 40 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2391 40.43 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term
+EMV2405 40.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2407 40.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2411 40.86 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2413 39.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2417 40.14 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2419 40.71 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2421 38.86 Multiparous Multiparous "Emergency CS" Yes 1 Term
+EMV2423 40.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2425 41 Nulliparous Primigravida Nulliparous Yes 0 "Late term or prolonged"
+EMV2427 40.57 Nulliparous Primigravida Nulliparous Yes 0 Term
+EMV2445 38.57 Nulliparous "Nulliparous multigravida" Nulliparous Yes 0 Term

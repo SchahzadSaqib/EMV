@@ -5,17 +5,17 @@ source(here::here("Scripts", "load_packages.R"))
 ## metadata
 metadata <- readr::read_delim(
   here::here("Data",
-             "meta_all_1st_Rversion.txt")) %>%
-  dplyr::rename("Primipara" = Primipara...46) %>%
+             "EMV_meta.txt")) %>%
+  #dplyr::rename("Primipara" = Primipara...46) %>%
   tibble::remove_rownames() %>%
   tibble::column_to_rownames(var = "Sample") %>%
-  dplyr::mutate(GP3 = case_when(
-    (GP3 == "Multipara" ~ "Multiparous"),
-    (GP3 == "Nulliparous primigravida" ~ "Primigravida"),
-    (GP3 == "Nulliparous non-primigravida" ~ "Nulliparous multigravida"))) %>%
-  dplyr::mutate(Primipara = if_else(Primipara == "Yes", 
-                                    "Nulliparous", 
-                                    "Multiparous")) %>%
+  #dplyr::mutate(GP3 = case_when(
+  #  (GP3 == "Multipara" ~ "Multiparous"),
+  #  (GP3 == "Nulliparous primigravida" ~ "Primigravida"),
+  #  (GP3 == "Nulliparous non-primigravida" ~ "Nulliparous multigravida"))) %>%
+  #dplyr::mutate(Primipara = if_else(Primipara == "Yes", 
+  #                                  "Nulliparous", 
+  #                                  "Multiparous")) %>%
   
   ## convert all numeric columns to factor
   dplyr::mutate(across(where(is.numeric), .fns = as.factor)) %>%
