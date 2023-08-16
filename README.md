@@ -1,4 +1,3 @@
-# EMV
+# Parity and gestational age are associated with vaginal microbiota composition in term and late term pregnancies
 
- Vaginal microbiome of pregnant women <br /> 
- **Pre-print**: https://www.researchsquare.com/article/rs-1032686/v1
+**EBioMedicine:** https://doi.org/10.1016/j.ebiom.2022.104107
